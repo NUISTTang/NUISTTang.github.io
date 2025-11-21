@@ -34,7 +34,7 @@ My research interest includes visual anomaly detection, medical imaging analysis
 # 📝 Publications 
 
 <!-- HiPL -->
-div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/HiPL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/HiPL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Exploring High-order-aware Prompt Learning for Zero-shot Anomaly Detection
@@ -89,7 +89,7 @@ TIM 2024
 - *2024.10*: First-class <span style="color: red;">(ranked 1st)</span> Scholarship, Nanjing University of Information Science &amp; Technology.
 
 # 📖 Educations
-- *2023.06 - 2026.06 (expected)*, School of Software Engineering, SNanjing University of Information Science &amp; Technology
+- *2023.06 - 2026.06 (expected)*, School of Software Engineering, Nanjing University of Information Science &amp; Technology
 - *2019.09 - 2023.06*, School of Media and Art Design, Guilin University of Aerospace Technology
 
 <!--
