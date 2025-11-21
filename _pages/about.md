@@ -78,7 +78,7 @@ Exploring High-order-aware Prompt Learning for Zero-shot Anomaly Detection
 
 [Unsupervised Anomaly Detection and Localization based on Two-hierarchy Normalizing Flow](https://ieeexplore.ieee.org/abstract/document/10677524/)
 
-Jielin Jiang\*, **_Shun Wei_\***, Xiaolong Xu (*: Equal Contributions)
+Jielin Jiang\*, **_Shun Wei_\***, Xiaolong Xu, Yan Cui, Xiying Liu (*: Equal Contributions)
 
 TIM 2024
 
