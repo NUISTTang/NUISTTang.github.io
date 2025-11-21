@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Shun (Shawn) Wei (魏顺), a third year master student supervised by A/Prof. Jielin Jiang in School of Software Engineering, Nanjing University of Information Science &amp; Technology and Jiangsu Province Engineering Research Center of Advanced Computing and Intelligent Services. Previously, I obtained my Bachelor's degree in 2023 from School of Media and Art Design, Guilin University of Aerospace Technology.
+I am Shun (Shawn) Wei (魏顺), a third year master student supervised by A/Prof. Jielin Jiang in School of Software Engineering, _Nanjing University of Information Science and Technology_ and _Jiangsu Province Engineering Research Center of Advanced Computing and Intelligent Services_. Previously, I obtained my Bachelor's degree in 2023 from School of Media and Art Design, Guilin University of Aerospace Technology.
 
 My research interest includes visual anomaly detection, medical imaging analysis, and representation/multimodal/continual learning. 
 
@@ -83,19 +83,20 @@ TIM 2024
 # 🎖 Honors and Awards
 - *2025.11*: Puxin Elite Scholarship, Jiangsu Provincial Department of Education and the People's Government of Pukou District, Nanjing City.
 - *2025.11*: <span style="color: red;">National Scholarship (ranked 1st)</span>, Ministry of Education of The People’s Republic of China.
-- *2025.10*: First-class <span style="color: red;">(ranked 1st)</span> Scholarship, Nanjing University of Information Science &amp; Technology.
+- *2025.10*: First-class <span style="color: red;">(ranked 1st)</span> Scholarship, Nanjing University of Information Science and Technology.
 - *2025.07*: National Third Prize of China Student Service Outsourcing Innovation and Entrepreneurship Competition.
-- *2024.10*: Outstanding Graduate Student, Nanjing University of Information Science &amp; Technology.
-- *2024.10*: First-class <span style="color: red;">(ranked 1st)</span> Scholarship, Nanjing University of Information Science &amp; Technology.
+- *2024.10*: Outstanding Graduate Student, Nanjing University of Information Science and Technology.
+- *2024.10*: First-class <span style="color: red;">(ranked 1st)</span> Scholarship, Nanjing University of Information Science and Technology.
 
 # 📖 Educations
-- *2023.06 - 2026.06 (expected)*, School of Software Engineering, Nanjing University of Information Science &amp; Technology
+- *2023.06 - 2026.06 (expected)*, School of Software Engineering, Nanjing University of Information Science and Technology
 - *2019.09 - 2023.06*, School of Media and Art Design, Guilin University of Aerospace Technology
 
 <!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
+# 💻 Review Service
+- Conferences: AAAI, ACM MM
+- Journals: TIP, IJCV, TNNLS, TII, TIM, Neurocomputing
