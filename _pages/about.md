@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Shun (Shawn) Wei (魏顺), a third year master student supervised by A/Prof. Jielin Jiang in School of Software Engineering, _Nanjing University of Information Science and Technology_ and _Jiangsu Province Engineering Research Center of Advanced Computing and Intelligent Services_. Previously, I obtained my Bachelor's degree in 2023 from School of Media and Art Design, Guilin University of Aerospace Technology.
+I am Shun (Shawn) Wei (魏顺), a third year master student supervised by A/Prof. Jielin Jiang in School of Software Engineering, [_Nanjing University of Information Science and Technology_](https://www.nuist.edu.cn/) and [_Jiangsu Advanced Computing and Intelligent Services Engineering Research Center_](https://software.nuist.edu.cn/ACISE/main.htm). Previously, I obtained my Bachelor's degree in 2023 from School of Media and Art Design, Guilin University of Aerospace Technology.
 
 My research interest includes visual anomaly detection, medical imaging analysis, and representation/multimodal/continual learning. 
 
