@@ -33,6 +33,17 @@ My research interest includes visual anomaly detection, medical imaging analysis
 
 # 📝 Publications 
 
+<!-- GAS -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/GAS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Continual Anomaly Detection Through Knowledge Induction and Expansion
+
+**_Shun Wei_**, Jielin Jiang, Xiaolong Xu, Shuo Chen, Haolong Xiang
+
+</div>
+</div>
+
 <!-- HiPL -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/HiPL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
