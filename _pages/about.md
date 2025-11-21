@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Shun (Shawn) Wei (魏顺), a third year master student supervised by A/Prof. Jielin Jiang in School of Software Engineering, Nanjing University of Information Science & Technology and Jiangsu Province Engineering Research Center of Advanced Computing and Intelligent Services. Previously, I obtained my Bachelor's degree in 2023 from School of Media and Art Design,  Guilin University of Aerospace Technology.
+I am Shun (Shawn) Wei (魏顺), a third year master student supervised by A/Prof. Jielin Jiang in School of Software Engineering, Nanjing University of Information Science &amp; Technology and Jiangsu Province Engineering Research Center of Advanced Computing and Intelligent Services. Previously, I obtained my Bachelor's degree in 2023 from School of Media and Art Design,  Guilin University of Aerospace Technology.
 
 My research interest includes visual anomaly detection, medical imaging analysis, and representation/multimodal/continual learning. 
 
-<!-- comment --> I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 
 # 🔥 News
