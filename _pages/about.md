@@ -33,7 +33,22 @@ My research interest includes visual anomaly detection, medical imaging analysis
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/UniNet.jpg' alt="sym" width="100%"></div></div>
+<!-- HiPL -->
+div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/HiPL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Exploring High-order-aware Prompt Learning for Zero-shot Anomaly Detection
+
+**_Shun Wei_**, Jielin Jiang, Xiaolong Xu
+
+<span style="color: red;">AAAI 2026 (CCF-A)</span>
+
+<!-- **Paper** -->
+</div>
+</div>
+
+<!-- UniNet -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/UniNet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UniNet: A Contrastive Learning-guided Unified Framework with
@@ -46,6 +61,7 @@ My research interest includes visual anomaly detection, medical imaging analysis
 [**Paper**](https://openaccess.thecvf.com/content/CVPR2025/html/Wei_UniNet_A_Contrastive_Learning-guided_Unified_Framework_with_Feature_Selection_for_CVPR_2025_paper.html) <strong>|</strong> [**Code**](https://github.com/pangdaTangtt/UniNet/tree/main) ![](https://img.shields.io/github/stars/pangdatangtt/UniNet) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:Tyk-4Ss8FVUC'></span></strong> 
 </div>
 </div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
