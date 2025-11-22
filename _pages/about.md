@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Shun (Shawn) Wei (魏顺), a third year master student supervised by A/Prof. Jielin Jiang in School of Software Engineering, [_Nanjing University of Information Science and Technology_](https://www.nuist.edu.cn/) and [_Jiangsu Advanced Computing and Intelligent Services Engineering Research Center_](https://software.nuist.edu.cn/ACISE/main.htm). Previously, I obtained my Bachelor's degree in 2023 from School of Media and Art Design, Guilin University of Aerospace Technology.
+I am Shun (Shawn) Wei (魏顺), a third year master student supervised by A/Prof. Jielin Jiang in School of Software, [_Nanjing University of Information Science and Technology_](https://www.nuist.edu.cn/) and [_Jiangsu Advanced Computing and Intelligent Services Engineering Research Center_](https://software.nuist.edu.cn/ACISE/main.htm). Previously, I obtained my Bachelor's degree in 2023 from School of Media and Art Design, Guilin University of Aerospace Technology.
 
 My research interest includes visual anomaly detection, medical imaging analysis, and representation/multimodal/continual learning. 
 
@@ -82,7 +82,7 @@ Jielin Jiang\*, **_Shun Wei_\***, Xiaolong Xu, Yan Cui, Xiying Liu (*: Equal Con
 
 TIM 2024
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/10677524/))
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10677524/)
 </div>
 </div>
 
@@ -100,8 +100,8 @@ TIM 2024
 - *2024.10*: First-class <span style="color: red;">(ranked 1st)</span> Scholarship, Nanjing University of Information Science and Technology.
 
 # 📖 Educations
-- *2023.06 - 2026.06 (expected)*, School of Software Engineering, Nanjing University of Information Science and Technology
-- *2019.09 - 2023.06*, School of Media and Art Design, Guilin University of Aerospace Technology
+- *2023.06 - 2026.06 (expected)*: School of Software, Nanjing University of Information Science and Technology
+- *2019.09 - 2023.06*: School of Media and Art Design, Guilin University of Aerospace Technology
 
 <!--
 # 💬 Invited Talks
